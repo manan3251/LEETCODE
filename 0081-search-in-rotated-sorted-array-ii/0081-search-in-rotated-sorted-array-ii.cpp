@@ -1,13 +1,13 @@
 class Solution {
 public:
-int BS_Duplicate ( vector <int> nums , int n , int target ) {
+bool BS_Duplicate ( vector <int> nums , int n , int target ) {
     int low = 0;
     int high = n-1;
 
     while ( low <= high ) {
         int mid = low + (high-low)/2;
 
-    if ( nums[mid] == target ) return mid;
+    if ( nums[mid] == target ) return true;
 
     else if ( nums[low] == nums[mid] && nums[mid] == nums[high] ) {
         low++;
