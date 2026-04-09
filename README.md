@@ -12,6 +12,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/manan3251/LEETCODE/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/manan3251/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/manan3251/LEETCODE/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/manan3251/LEETCODE/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,4 +72,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/manan3251/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/manan3251/LEETCODE/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 <!---LeetCode Topics End-->
