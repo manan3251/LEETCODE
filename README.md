@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/manan3251/LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/manan3251/LEETCODE/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/manan3251/LEETCODE/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/manan3251/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/manan3251/LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
@@ -51,6 +52,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/manan3251/LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/manan3251/LEETCODE/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/manan3251/LEETCODE/tree/main/0055-jump-game/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/manan3251/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/manan3251/LEETCODE/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -68,6 +70,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/manan3251/LEETCODE/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/manan3251/LEETCODE/tree/main/0055-jump-game/) | Medium |
 | [0402-remove-k-digits](https://github.com/manan3251/LEETCODE/tree/main/0402-remove-k-digits/) | Medium |
 | [0455-assign-cookies](https://github.com/manan3251/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
