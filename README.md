@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manan3251/LEETCODE/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/manan3251/LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/manan3251/LEETCODE/tree/main/0045-jump-game-ii/) | Medium |
+| [0048-rotate-image](https://github.com/manan3251/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/manan3251/LEETCODE/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/manan3251/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/manan3251/LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
@@ -121,6 +122,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/manan3251/LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/manan3251/LEETCODE/tree/main/0007-reverse-integer/) | Medium |
+| [0048-rotate-image](https://github.com/manan3251/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,4 +169,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/manan3251/LEETCODE/tree/main/0796-rotate-string/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/manan3251/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->
