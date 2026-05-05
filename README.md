@@ -59,6 +59,7 @@
 | [0011-container-with-most-water](https://github.com/manan3251/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manan3251/LEETCODE/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/manan3251/LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
+| [0061-rotate-list](https://github.com/manan3251/LEETCODE/tree/main/0061-rotate-list/) | Medium |
 | [0455-assign-cookies](https://github.com/manan3251/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -117,6 +118,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/manan3251/LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
+| [0061-rotate-list](https://github.com/manan3251/LEETCODE/tree/main/0061-rotate-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
