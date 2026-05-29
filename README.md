@@ -38,6 +38,7 @@
 | [2784-check-if-array-is-good](https://github.com/manan3251/LEETCODE/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/manan3251/LEETCODE/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/manan3251/LEETCODE/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/manan3251/LEETCODE/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/manan3251/LEETCODE/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/manan3251/LEETCODE/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/manan3251/LEETCODE/tree/main/3660-jump-game-ix/) | Medium |
@@ -178,6 +179,7 @@
 | [0002-add-two-numbers](https://github.com/manan3251/LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/manan3251/LEETCODE/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/manan3251/LEETCODE/tree/main/0048-rotate-image/) | Medium |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/manan3251/LEETCODE/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/manan3251/LEETCODE/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
