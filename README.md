@@ -43,6 +43,7 @@
 | [3161-block-placement-queries](https://github.com/manan3251/LEETCODE/tree/main/3161-block-placement-queries/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/manan3251/LEETCODE/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/manan3251/LEETCODE/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manan3251/LEETCODE/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/manan3251/LEETCODE/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/manan3251/LEETCODE/tree/main/3660-jump-game-ix/) | Medium |
 ## Hash Table
@@ -94,6 +95,7 @@
 | [0061-rotate-list](https://github.com/manan3251/LEETCODE/tree/main/0061-rotate-list/) | Medium |
 | [0455-assign-cookies](https://github.com/manan3251/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
 | [2540-minimum-common-value](https://github.com/manan3251/LEETCODE/tree/main/2540-minimum-common-value/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manan3251/LEETCODE/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +141,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/manan3251/LEETCODE/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2126-destroying-asteroids](https://github.com/manan3251/LEETCODE/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/manan3251/LEETCODE/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manan3251/LEETCODE/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +159,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/manan3251/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2540-minimum-common-value](https://github.com/manan3251/LEETCODE/tree/main/2540-minimum-common-value/) | Easy |
 | [3161-block-placement-queries](https://github.com/manan3251/LEETCODE/tree/main/3161-block-placement-queries/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manan3251/LEETCODE/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +180,7 @@
 | [2126-destroying-asteroids](https://github.com/manan3251/LEETCODE/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/manan3251/LEETCODE/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/manan3251/LEETCODE/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manan3251/LEETCODE/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
