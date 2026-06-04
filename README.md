@@ -110,6 +110,7 @@
 | [1871-jump-game-vii](https://github.com/manan3251/LEETCODE/tree/main/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/manan3251/LEETCODE/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3660-jump-game-ix](https://github.com/manan3251/LEETCODE/tree/main/3660-jump-game-ix/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/manan3251/LEETCODE/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,6 +200,7 @@
 | [0048-rotate-image](https://github.com/manan3251/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/manan3251/LEETCODE/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/manan3251/LEETCODE/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/manan3251/LEETCODE/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,4 +277,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/manan3251/LEETCODE/tree/main/3161-block-placement-queries/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/manan3251/LEETCODE/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 <!---LeetCode Topics End-->
