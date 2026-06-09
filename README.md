@@ -49,6 +49,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/manan3251/LEETCODE/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/manan3251/LEETCODE/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/manan3251/LEETCODE/tree/main/3660-jump-game-ix/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/manan3251/LEETCODE/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +153,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/manan3251/LEETCODE/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/manan3251/LEETCODE/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/manan3251/LEETCODE/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/manan3251/LEETCODE/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
