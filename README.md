@@ -18,6 +18,7 @@
 | [0136-single-number](https://github.com/manan3251/LEETCODE/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manan3251/LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/manan3251/LEETCODE/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0169-majority-element](https://github.com/manan3251/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/manan3251/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/manan3251/LEETCODE/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/manan3251/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
@@ -63,6 +64,7 @@
 | [0001-two-sum](https://github.com/manan3251/LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manan3251/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manan3251/LEETCODE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0169-majority-element](https://github.com/manan3251/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/manan3251/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/manan3251/LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
 | [1345-jump-game-iv](https://github.com/manan3251/LEETCODE/tree/main/1345-jump-game-iv/) | Hard |
@@ -202,11 +204,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manan3251/LEETCODE/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0169-majority-element](https://github.com/manan3251/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/manan3251/LEETCODE/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/manan3251/LEETCODE/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/manan3251/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0455-assign-cookies](https://github.com/manan3251/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
 | [1340-jump-game-v](https://github.com/manan3251/LEETCODE/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/manan3251/LEETCODE/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -328,4 +332,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/manan3251/LEETCODE/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/manan3251/LEETCODE/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
