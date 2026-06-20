@@ -37,6 +37,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/manan3251/LEETCODE/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/manan3251/LEETCODE/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/manan3251/LEETCODE/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1840-maximum-building-height](https://github.com/manan3251/LEETCODE/tree/main/1840-maximum-building-height/) | Hard |
 | [1914-cyclically-rotating-a-grid](https://github.com/manan3251/LEETCODE/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/manan3251/LEETCODE/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2126-destroying-asteroids](https://github.com/manan3251/LEETCODE/tree/main/2126-destroying-asteroids/) | Medium |
@@ -222,6 +223,7 @@
 | [0455-assign-cookies](https://github.com/manan3251/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
 | [1340-jump-game-v](https://github.com/manan3251/LEETCODE/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/manan3251/LEETCODE/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1840-maximum-building-height](https://github.com/manan3251/LEETCODE/tree/main/1840-maximum-building-height/) | Hard |
 | [2126-destroying-asteroids](https://github.com/manan3251/LEETCODE/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/manan3251/LEETCODE/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/manan3251/LEETCODE/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -242,6 +244,7 @@
 | [0048-rotate-image](https://github.com/manan3251/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/manan3251/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/manan3251/LEETCODE/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1840-maximum-building-height](https://github.com/manan3251/LEETCODE/tree/main/1840-maximum-building-height/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/manan3251/LEETCODE/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/manan3251/LEETCODE/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manan3251/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
