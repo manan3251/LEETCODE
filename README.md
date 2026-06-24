@@ -16,6 +16,7 @@
 | [0053-maximum-subarray](https://github.com/manan3251/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/manan3251/LEETCODE/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/manan3251/LEETCODE/tree/main/0075-sort-colors/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/manan3251/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/manan3251/LEETCODE/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manan3251/LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/manan3251/LEETCODE/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -69,6 +70,7 @@
 | [0001-two-sum](https://github.com/manan3251/LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manan3251/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manan3251/LEETCODE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/manan3251/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/manan3251/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/manan3251/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/manan3251/LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
@@ -362,4 +364,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/manan3251/LEETCODE/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/manan3251/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
