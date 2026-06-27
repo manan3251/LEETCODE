@@ -25,6 +25,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/manan3251/LEETCODE/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0169-majority-element](https://github.com/manan3251/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/manan3251/LEETCODE/tree/main/0189-rotate-array/) | Medium |
+| [0229-majority-element-ii](https://github.com/manan3251/LEETCODE/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/manan3251/LEETCODE/tree/main/0283-move-zeroes/) | Easy |
 | [0455-assign-cookies](https://github.com/manan3251/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/manan3251/LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -78,6 +79,7 @@
 | [0073-set-matrix-zeroes](https://github.com/manan3251/LEETCODE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/manan3251/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/manan3251/LEETCODE/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/manan3251/LEETCODE/tree/main/0229-majority-element-ii/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/manan3251/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/manan3251/LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/manan3251/LEETCODE/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -243,6 +245,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/manan3251/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/manan3251/LEETCODE/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/manan3251/LEETCODE/tree/main/0229-majority-element-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/manan3251/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
 | [1340-jump-game-v](https://github.com/manan3251/LEETCODE/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/manan3251/LEETCODE/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -377,6 +380,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/manan3251/LEETCODE/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/manan3251/LEETCODE/tree/main/0229-majority-element-ii/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/manan3251/LEETCODE/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manan3251/LEETCODE/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Counting Sort
