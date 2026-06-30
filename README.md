@@ -87,6 +87,7 @@
 | [0496-next-greater-element-i](https://github.com/manan3251/LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/manan3251/LEETCODE/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/manan3251/LEETCODE/tree/main/1345-jump-game-iv/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/manan3251/LEETCODE/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/manan3251/LEETCODE/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/manan3251/LEETCODE/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/manan3251/LEETCODE/tree/main/2540-minimum-common-value/) | Easy |
@@ -181,6 +182,7 @@
 | [0678-valid-parenthesis-string](https://github.com/manan3251/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/manan3251/LEETCODE/tree/main/0796-rotate-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/manan3251/LEETCODE/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/manan3251/LEETCODE/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/manan3251/LEETCODE/tree/main/1871-jump-game-vii/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/manan3251/LEETCODE/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/manan3251/LEETCODE/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -214,6 +216,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/manan3251/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/manan3251/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/manan3251/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/manan3251/LEETCODE/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/manan3251/LEETCODE/tree/main/1871-jump-game-vii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
