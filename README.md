@@ -322,6 +322,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/manan3251/LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/manan3251/LEETCODE/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/manan3251/LEETCODE/tree/main/1306-jump-game-iii/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/manan3251/LEETCODE/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/manan3251/LEETCODE/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/manan3251/LEETCODE/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Tree
@@ -342,6 +343,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/manan3251/LEETCODE/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [1306-jump-game-iii](https://github.com/manan3251/LEETCODE/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/manan3251/LEETCODE/tree/main/1345-jump-game-iv/) | Hard |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/manan3251/LEETCODE/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/manan3251/LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/manan3251/LEETCODE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/manan3251/LEETCODE/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -415,6 +417,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/manan3251/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/manan3251/LEETCODE/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/manan3251/LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -424,6 +427,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/manan3251/LEETCODE/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/manan3251/LEETCODE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/manan3251/LEETCODE/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
