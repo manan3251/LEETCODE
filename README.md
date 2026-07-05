@@ -35,6 +35,7 @@
 | [0860-lemonade-change](https://github.com/manan3251/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/manan3251/LEETCODE/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/manan3251/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/manan3251/LEETCODE/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/manan3251/LEETCODE/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/manan3251/LEETCODE/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/manan3251/LEETCODE/tree/main/1345-jump-game-iv/) | Hard |
@@ -155,6 +156,7 @@
 | [0118-pascals-triangle](https://github.com/manan3251/LEETCODE/tree/main/0118-pascals-triangle/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/manan3251/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/manan3251/LEETCODE/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/manan3251/LEETCODE/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/manan3251/LEETCODE/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/manan3251/LEETCODE/tree/main/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/manan3251/LEETCODE/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -361,6 +363,7 @@
 | [0048-rotate-image](https://github.com/manan3251/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/manan3251/LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/manan3251/LEETCODE/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/manan3251/LEETCODE/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1914-cyclically-rotating-a-grid](https://github.com/manan3251/LEETCODE/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/manan3251/LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/manan3251/LEETCODE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
