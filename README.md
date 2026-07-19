@@ -128,6 +128,7 @@
 | [0678-valid-parenthesis-string](https://github.com/manan3251/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/manan3251/LEETCODE/tree/main/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/manan3251/LEETCODE/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/manan3251/LEETCODE/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/manan3251/LEETCODE/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/manan3251/LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Monotonic Stack
@@ -138,6 +139,7 @@
 | [0496-next-greater-element-i](https://github.com/manan3251/LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/manan3251/LEETCODE/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/manan3251/LEETCODE/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/manan3251/LEETCODE/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/manan3251/LEETCODE/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -203,6 +205,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/manan3251/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/manan3251/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/manan3251/LEETCODE/tree/main/0796-rotate-string/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/manan3251/LEETCODE/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/manan3251/LEETCODE/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/manan3251/LEETCODE/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/manan3251/LEETCODE/tree/main/1871-jump-game-vii/) | Medium |
@@ -224,6 +227,7 @@
 | [0455-assign-cookies](https://github.com/manan3251/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/manan3251/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/manan3251/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/manan3251/LEETCODE/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/manan3251/LEETCODE/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/manan3251/LEETCODE/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/manan3251/LEETCODE/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
