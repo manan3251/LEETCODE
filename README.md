@@ -35,6 +35,7 @@
 | [0860-lemonade-change](https://github.com/manan3251/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/manan3251/LEETCODE/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/manan3251/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1260-shift-2d-grid](https://github.com/manan3251/LEETCODE/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/manan3251/LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/manan3251/LEETCODE/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/manan3251/LEETCODE/tree/main/1306-jump-game-iii/) | Medium |
@@ -189,6 +190,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/manan3251/LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0735-asteroid-collision](https://github.com/manan3251/LEETCODE/tree/main/0735-asteroid-collision/) | Medium |
+| [1260-shift-2d-grid](https://github.com/manan3251/LEETCODE/tree/main/1260-shift-2d-grid/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/manan3251/LEETCODE/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/manan3251/LEETCODE/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/manan3251/LEETCODE/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -403,6 +405,7 @@
 | [0048-rotate-image](https://github.com/manan3251/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/manan3251/LEETCODE/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/manan3251/LEETCODE/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1260-shift-2d-grid](https://github.com/manan3251/LEETCODE/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/manan3251/LEETCODE/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1914-cyclically-rotating-a-grid](https://github.com/manan3251/LEETCODE/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/manan3251/LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
