@@ -31,6 +31,7 @@
 | [0485-max-consecutive-ones](https://github.com/manan3251/LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/manan3251/LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/manan3251/LEETCODE/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/manan3251/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0735-asteroid-collision](https://github.com/manan3251/LEETCODE/tree/main/0735-asteroid-collision/) | Medium |
 | [0860-lemonade-change](https://github.com/manan3251/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/manan3251/LEETCODE/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -299,6 +300,7 @@
 | [0169-majority-element](https://github.com/manan3251/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/manan3251/LEETCODE/tree/main/0229-majority-element-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/manan3251/LEETCODE/tree/main/0455-assign-cookies/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/manan3251/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/manan3251/LEETCODE/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/manan3251/LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/manan3251/LEETCODE/tree/main/1340-jump-game-v/) | Hard |
@@ -328,6 +330,7 @@
 | [0007-reverse-integer](https://github.com/manan3251/LEETCODE/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/manan3251/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/manan3251/LEETCODE/tree/main/0189-rotate-array/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/manan3251/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/manan3251/LEETCODE/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/manan3251/LEETCODE/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manan3251/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
