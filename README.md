@@ -35,6 +35,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/manan3251/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0735-asteroid-collision](https://github.com/manan3251/LEETCODE/tree/main/0735-asteroid-collision/) | Medium |
 | [0860-lemonade-change](https://github.com/manan3251/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
+| [0877-stone-game](https://github.com/manan3251/LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/manan3251/LEETCODE/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/manan3251/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/manan3251/LEETCODE/tree/main/1260-shift-2d-grid/) | Easy |
@@ -180,6 +181,7 @@
 | [0118-pascals-triangle](https://github.com/manan3251/LEETCODE/tree/main/0118-pascals-triangle/) | Easy |
 | [0486-predict-the-winner](https://github.com/manan3251/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/manan3251/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0877-stone-game](https://github.com/manan3251/LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/manan3251/LEETCODE/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/manan3251/LEETCODE/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/manan3251/LEETCODE/tree/main/1340-jump-game-v/) | Hard |
@@ -346,6 +348,7 @@
 | [0189-rotate-array](https://github.com/manan3251/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0486-predict-the-winner](https://github.com/manan3251/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/manan3251/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/manan3251/LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/manan3251/LEETCODE/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/manan3251/LEETCODE/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manan3251/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -547,4 +550,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/manan3251/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/manan3251/LEETCODE/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
