@@ -46,6 +46,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/manan3251/LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/manan3251/LEETCODE/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/manan3251/LEETCODE/tree/main/1345-jump-game-iv/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/manan3251/LEETCODE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/manan3251/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manan3251/LEETCODE/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1563-stone-game-v](https://github.com/manan3251/LEETCODE/tree/main/1563-stone-game-v/) | Hard |
@@ -119,6 +120,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/manan3251/LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/manan3251/LEETCODE/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/manan3251/LEETCODE/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/manan3251/LEETCODE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/manan3251/LEETCODE/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/manan3251/LEETCODE/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/manan3251/LEETCODE/tree/main/2540-minimum-common-value/) | Easy |
@@ -272,6 +274,7 @@
 | [0678-valid-parenthesis-string](https://github.com/manan3251/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/manan3251/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/manan3251/LEETCODE/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/manan3251/LEETCODE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/manan3251/LEETCODE/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/manan3251/LEETCODE/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/manan3251/LEETCODE/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -501,6 +504,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/manan3251/LEETCODE/tree/main/0136-single-number/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/manan3251/LEETCODE/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/manan3251/LEETCODE/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/manan3251/LEETCODE/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/manan3251/LEETCODE/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
