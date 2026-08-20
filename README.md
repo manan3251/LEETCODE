@@ -78,6 +78,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manan3251/LEETCODE/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/manan3251/LEETCODE/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/manan3251/LEETCODE/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/manan3251/LEETCODE/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/manan3251/LEETCODE/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/manan3251/LEETCODE/tree/main/3161-block-placement-queries/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/manan3251/LEETCODE/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -229,6 +230,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/manan3251/LEETCODE/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/manan3251/LEETCODE/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/manan3251/LEETCODE/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/manan3251/LEETCODE/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/manan3251/LEETCODE/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/manan3251/LEETCODE/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/manan3251/LEETCODE/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
