@@ -57,6 +57,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/manan3251/LEETCODE/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/manan3251/LEETCODE/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/manan3251/LEETCODE/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1872-stone-game-viii](https://github.com/manan3251/LEETCODE/tree/main/1872-stone-game-viii/) | Hard |
 | [1914-cyclically-rotating-a-grid](https://github.com/manan3251/LEETCODE/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/manan3251/LEETCODE/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manan3251/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -210,6 +211,7 @@
 | [1510-stone-game-iv](https://github.com/manan3251/LEETCODE/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/manan3251/LEETCODE/tree/main/1563-stone-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/manan3251/LEETCODE/tree/main/1871-jump-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/manan3251/LEETCODE/tree/main/1872-stone-game-viii/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/manan3251/LEETCODE/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/manan3251/LEETCODE/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/manan3251/LEETCODE/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -332,6 +334,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/manan3251/LEETCODE/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/manan3251/LEETCODE/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/manan3251/LEETCODE/tree/main/1871-jump-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/manan3251/LEETCODE/tree/main/1872-stone-game-viii/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/manan3251/LEETCODE/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/manan3251/LEETCODE/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/manan3251/LEETCODE/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -397,6 +400,7 @@
 | [1510-stone-game-iv](https://github.com/manan3251/LEETCODE/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/manan3251/LEETCODE/tree/main/1563-stone-game-v/) | Hard |
 | [1840-maximum-building-height](https://github.com/manan3251/LEETCODE/tree/main/1840-maximum-building-height/) | Hard |
+| [1872-stone-game-viii](https://github.com/manan3251/LEETCODE/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/manan3251/LEETCODE/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manan3251/LEETCODE/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/manan3251/LEETCODE/tree/main/2029-stone-game-ix/) | Medium |
@@ -620,6 +624,7 @@
 | [1406-stone-game-iii](https://github.com/manan3251/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/manan3251/LEETCODE/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/manan3251/LEETCODE/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/manan3251/LEETCODE/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/manan3251/LEETCODE/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/manan3251/LEETCODE/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
@@ -628,6 +633,7 @@
 | [1140-stone-game-ii](https://github.com/manan3251/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/manan3251/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/manan3251/LEETCODE/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/manan3251/LEETCODE/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/manan3251/LEETCODE/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
@@ -635,6 +641,7 @@
 | [1140-stone-game-ii](https://github.com/manan3251/LEETCODE/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/manan3251/LEETCODE/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/manan3251/LEETCODE/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/manan3251/LEETCODE/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/manan3251/LEETCODE/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
