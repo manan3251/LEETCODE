@@ -211,6 +211,7 @@
 | [0045-jump-game-ii](https://github.com/manan3251/LEETCODE/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/manan3251/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/manan3251/LEETCODE/tree/main/0055-jump-game/) | Medium |
+| [0115-distinct-subsequences](https://github.com/manan3251/LEETCODE/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/manan3251/LEETCODE/tree/main/0118-pascals-triangle/) | Easy |
 | [0486-predict-the-winner](https://github.com/manan3251/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/manan3251/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -254,6 +255,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manan3251/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manan3251/LEETCODE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0115-distinct-subsequences](https://github.com/manan3251/LEETCODE/tree/main/0115-distinct-subsequences/) | Hard |
 | [0402-remove-k-digits](https://github.com/manan3251/LEETCODE/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/manan3251/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/manan3251/LEETCODE/tree/main/0678-valid-parenthesis-string/) | Medium |
