@@ -10,6 +10,7 @@
 | [0011-container-with-most-water](https://github.com/manan3251/LEETCODE/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manan3251/LEETCODE/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/manan3251/LEETCODE/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manan3251/LEETCODE/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/manan3251/LEETCODE/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/manan3251/LEETCODE/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/manan3251/LEETCODE/tree/main/0045-jump-game-ii/) | Medium |
@@ -336,6 +337,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/manan3251/LEETCODE/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/manan3251/LEETCODE/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manan3251/LEETCODE/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/manan3251/LEETCODE/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manan3251/LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/manan3251/LEETCODE/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
