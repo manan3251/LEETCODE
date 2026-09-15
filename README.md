@@ -33,6 +33,7 @@
 | [0496-next-greater-element-i](https://github.com/manan3251/LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/manan3251/LEETCODE/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/manan3251/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0704-binary-search](https://github.com/manan3251/LEETCODE/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/manan3251/LEETCODE/tree/main/0735-asteroid-collision/) | Medium |
 | [0860-lemonade-change](https://github.com/manan3251/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
 | [0877-stone-game](https://github.com/manan3251/LEETCODE/tree/main/0877-stone-game/) | Medium |
@@ -336,6 +337,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/manan3251/LEETCODE/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manan3251/LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/manan3251/LEETCODE/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0704-binary-search](https://github.com/manan3251/LEETCODE/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/manan3251/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2540-minimum-common-value](https://github.com/manan3251/LEETCODE/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/manan3251/LEETCODE/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
