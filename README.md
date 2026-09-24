@@ -341,6 +341,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/manan3251/LEETCODE/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manan3251/LEETCODE/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/manan3251/LEETCODE/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/manan3251/LEETCODE/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/manan3251/LEETCODE/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manan3251/LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/manan3251/LEETCODE/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -426,6 +427,7 @@
 | [0002-add-two-numbers](https://github.com/manan3251/LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/manan3251/LEETCODE/tree/main/0007-reverse-integer/) | Medium |
 | [0048-rotate-image](https://github.com/manan3251/LEETCODE/tree/main/0048-rotate-image/) | Medium |
+| [0069-sqrtx](https://github.com/manan3251/LEETCODE/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/manan3251/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0486-predict-the-winner](https://github.com/manan3251/LEETCODE/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/manan3251/LEETCODE/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -701,4 +703,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/manan3251/LEETCODE/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/manan3251/LEETCODE/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
