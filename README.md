@@ -40,6 +40,7 @@
 | [0704-binary-search](https://github.com/manan3251/LEETCODE/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/manan3251/LEETCODE/tree/main/0735-asteroid-collision/) | Medium |
 | [0860-lemonade-change](https://github.com/manan3251/LEETCODE/tree/main/0860-lemonade-change/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/manan3251/LEETCODE/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/manan3251/LEETCODE/tree/main/0877-stone-game/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/manan3251/LEETCODE/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/manan3251/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -348,6 +349,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/manan3251/LEETCODE/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/manan3251/LEETCODE/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/manan3251/LEETCODE/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/manan3251/LEETCODE/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/manan3251/LEETCODE/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/manan3251/LEETCODE/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [2540-minimum-common-value](https://github.com/manan3251/LEETCODE/tree/main/2540-minimum-common-value/) | Easy |
