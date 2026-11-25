@@ -127,6 +127,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/manan3251/LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manan3251/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/manan3251/LEETCODE/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manan3251/LEETCODE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/manan3251/LEETCODE/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/manan3251/LEETCODE/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -264,6 +265,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/manan3251/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/manan3251/LEETCODE/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manan3251/LEETCODE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0115-distinct-subsequences](https://github.com/manan3251/LEETCODE/tree/main/0115-distinct-subsequences/) | Hard |
 | [0402-remove-k-digits](https://github.com/manan3251/LEETCODE/tree/main/0402-remove-k-digits/) | Medium |
@@ -434,6 +436,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/manan3251/LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/manan3251/LEETCODE/tree/main/0007-reverse-integer/) | Medium |
+| [0013-roman-to-integer](https://github.com/manan3251/LEETCODE/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/manan3251/LEETCODE/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/manan3251/LEETCODE/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/manan3251/LEETCODE/tree/main/0189-rotate-array/) | Medium |
